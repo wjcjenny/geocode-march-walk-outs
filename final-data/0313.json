@@ -1,0 +1,850 @@
+{
+    "RhodeIsland": [
+        {
+            "web": "https://actionnetwork.org/events/north-kingstown-high-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "North Kingstown High School ",
+            "city": "North Kingstown",
+            "longitude": "-71.4486279",
+            "latitude": "41.555876",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/403005479907881/north-kingstown-sr-high/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/school-walkout-for-parkland-at-mthope-high-school?referrer=&source=&email_referrer=&can_id=",
+            "school": "Mount Hope High School",
+            "city": "Bristol",
+            "longitude": "-71.2692521",
+            "latitude": "41.6877084",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/895397367/mt-hope-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/coventry-high-school?referrer=&source=&email_referrer=&can_id=",
+            "school": "Coventry High School",
+            "city": "Coventry",
+            "longitude": "-71.5908141",
+            "latitude": "41.6848155",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/235872738/coventry-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/toll-gate-hs-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Toll Gate High School",
+            "city": "Warwick",
+            "longitude": "-71.486055",
+            "latitude": "41.7032009",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/227254014/toll-gate-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/national-school-walkout-86?referrer=&source=&email_referrer=&can_id=",
+            "school": "The Carter Schools",
+            "city": "Providence",
+            "longitude": "-71.4173664",
+            "latitude": "41.7995977",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "false"
+        },
+        {
+            "web": "https://actionnetwork.org/events/the-met-peace-walk-out?referrer=&source=&email_referrer=&can_id=",
+            "school": "Met School",
+            "city": "Providence",
+            "longitude": "-71.4106623",
+            "latitude": "41.8069837",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/77404326/the-met-high-school-providence-and-newport-ri/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/trinity-academy-for-the-performing-arts-enough-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Trinity Academy for the Performing Arts",
+            "city": "Providence",
+            "longitude": "-71.415161",
+            "latitude": "41.822549",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/435125243253467/trinity-academy-for-the-performing-arts/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/cumberland-high-school-says-enough?referrer=&source=&email_referrer=&can_id=",
+            "school": "Cumberland High School",
+            "city": "Cumberland",
+            "longitude": "-71.4474134",
+            "latitude": "41.9645504",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/217026603/cumberland-high-school/"
+        }
+    ],
+    "Colorado": [
+        {
+            "web": "https://actionnetwork.org/events/enough-national-school-walkout-centennial?referrer=&source=&email_referrer=&can_id=",
+            "school": "Pueblo Centennial High School",
+            "city": "Pueblo",
+            "longitude": "-104.6374669",
+            "latitude": "38.3041192",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/866311907/centennial-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/central-high-school-enough-walk-out?referrer=&source=&email_referrer=&can_id=",
+            "school": "Pueblo Central High School",
+            "city": "Pueblo",
+            "longitude": "-104.624863",
+            "latitude": "38.253852",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "false"
+        },
+        {
+            "web": "https://actionnetwork.org/events/cresthill-middle-school-walkout-against-gun-violence?referrer=&source=&email_referrer=&can_id=",
+            "school": "Highlands Ranch",
+            "city": "Highlands Ranch",
+            "longitude": "-104.9739333",
+            "latitude": "39.5480789",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/491429886/cresthill-middle-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/douglas-county-hs-enough-national-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Douglas County High School",
+            "city": "Highlands Ranch",
+            "longitude": "-104.9328654",
+            "latitude": "39.5445848",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/234363585/douglas-county-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/enough-national-school-walkout-45",
+            "school": "Ralston Valley High School",
+            "city": "Arvada",
+            "longitude": "-105.1507059",
+            "latitude": "39.8434432",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/9627890/ralston-valley-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/highline-academy-se-enough-middle-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Highline Academy",
+            "city": "Denver",
+            "longitude": "-104.9306904",
+            "latitude": "39.6769947",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/6227615/highline-academy-charter-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/campus-middle-school-2?referrer=&source=&email_referrer=&can_id=",
+            "school": "Campus Middle School",
+            "city": "Greenwood Village",
+            "longitude": "-104.8775213",
+            "latitude": "39.6294711",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/756408998/campus-middle-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/peabody-elementary?referrer=&source=&email_referrer=&can_id=",
+            "school": "Peabody Elementary",
+            "city": "Centennial",
+            "longitude": "-104.9521845",
+            "latitude": "39.6031184",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/770754813/peabody-elementary-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/never-again-4?referrer=&source=&email_referrer=&can_id=",
+            "school": "Denver South High School",
+            "city": "Denver",
+            "longitude": "-104.9660181",
+            "latitude": "39.6921629",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/237584501/denver-south-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/lake-county-enough-national-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Lake County High School",
+            "city": "Leadville",
+            "longitude": "-106.3047168",
+            "latitude": "39.2440358",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/1585852425027109/lake-county-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/enough-national-school-walkout-117?referrer=&source=&email_referrer=&can_id=",
+            "school": "Salida Middle School",
+            "city": "Salida",
+            "longitude": "-105.9941337",
+            "latitude": "38.5266482",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/863739702/salida-middle-school/"
+        }
+    ],
+    "Pennsylvania": [
+        {
+            "web": "https://actionnetwork.org/events/usc-has-had-enough?referrer=&source=&email_referrer=&can_id=",
+            "school": "Upper St. Clair High School",
+            "city": "Pittsburgh",
+            "longitude": "-80.070924",
+            "latitude": "40.334753",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/1010646933/upper-st-clair-school-district/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/national-school-walkout-92?referrer=&source=&email_referrer=&can_id=",
+            "school": "Greenfield Elementary School\n",
+            "city": "Pittsburgh",
+            "longitude": "-79.9445126",
+            "latitude": "40.426433",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/401476763/greenfield-elementary-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/erie-high-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Erie High School",
+            "city": "Erie",
+            "longitude": "-80.0822148",
+            "latitude": "42.1018164",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "false"
+        },
+        {
+            "web": "https://actionnetwork.org/events/mcdowell-high-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "McDowell High School",
+            "city": "Erie",
+            "longitude": "-80.1494162",
+            "latitude": "42.07273",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/250619296/mcdowell-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/canon-mcmillan-high-school?referrer=&source=&email_referrer=&can_id=",
+            "school": "Canon McMillan High School",
+            "city": "Canonsburg",
+            "longitude": "-80.194655",
+            "latitude": "40.250597",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/270271804/canon-mcmillan-school-district/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/west-allegheny-high-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "West Allegheny Senior High School",
+            "city": "Imperial",
+            "longitude": "-80.2400716",
+            "latitude": "40.4489556",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/1028663468/west-allegheny-senior-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/scahs-national-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "State College Area High School",
+            "city": "State College",
+            "longitude": "-77.856502",
+            "latitude": "40.7809803",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/248703211/state-college-area-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/slippery-rock-high-school-walk-out?referrer=&source=&email_referrer=&can_id=",
+            "school": "Slippery Rock Area High School",
+            "city": "Slippery Rock",
+            "longitude": "-80.043127",
+            "latitude": "41.0554817",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/1017486233/slippery-rock-areahigh-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/hate-has-no-home-here-or-anywhere-else?referrer=&source=&email_referrer=&can_id=",
+            "school": "Blue Mountain Academy",
+            "city": "Hamburg",
+            "longitude": "-76.0358764",
+            "latitude": "40.5538561",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/2827697/blue-mountain-academy/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/palumbo-walk-out?referrer=&source=&email_referrer=&can_id=",
+            "school": "Academy at Palumbo",
+            "city": "Philadelphia",
+            "longitude": "-75.1616977",
+            "latitude": "39.9400309",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/6002129/the-academy-at-palumbo/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/student-vision-for-school-safety?referrer=&source=&email_referrer=&can_id=",
+            "school": "School District of Philadelphia",
+            "city": "Philadelphia",
+            "longitude": "-75.16278",
+            "latitude": "39.9611552",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/1395475/school-district-of-philadelphia/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/kensington-capa-end-to-gun-violence-2?referrer=&source=&email_referrer=&can_id=",
+            "school": "Kensington High School",
+            "city": "Philadelphia",
+            "longitude": "-75.1263108",
+            "latitude": "39.983958",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/577573061/kensington-creative-performing-artshigh-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/enough-national-school-walkout-at-north-penn-high-school?referrer=&source=&email_referrer=&can_id=",
+            "school": "North Penn High School",
+            "city": "Lansdale",
+            "longitude": "-75.315446",
+            "latitude": "40.2347666",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/234486004/north-penn-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/kutztown-area-middle-school-national-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Kutztown Area Middle School",
+            "city": "Kutztown",
+            "longitude": "-75.769217",
+            "latitude": "40.5130932",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/1030961433/kutztown-areamiddle-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/enough-haverford-high-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Haverford High School",
+            "city": "Havertown",
+            "longitude": "-75.3016129",
+            "latitude": "39.983699",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/235204025/haverford-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/hershey-high-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Hershey High School",
+            "city": "Hershey",
+            "longitude": "-76.641183",
+            "latitude": "40.276956",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/222684474/hershey-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/sths-walkout-enough?referrer=&source=&email_referrer=&can_id=",
+            "school": "Susquehanna Township High School",
+            "city": "Harrisburg",
+            "longitude": "-76.8339655",
+            "latitude": "40.2804555",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/967892059/susquehanna-township-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/science-leadership-academy-that-could-have-been-us?referrer=&source=&email_referrer=&can_id=",
+            "school": "Science Leadership Academy",
+            "city": "Philadelphia",
+            "longitude": "-75.1761723",
+            "latitude": "39.9558206",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/428602000490888/science-leadership-academy-families/"
+        }
+    ],
+    "Alaska": [
+        {
+            "web": "false",
+            "school": "Juneau-Douglas High School",
+            "city": "Juneau",
+            "longitude": "-134.4293952",
+            "latitude": "58.3047776",
+            "webtype": "false",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/234670524/juneau-douglas-high-school/"
+        },
+        {
+            "web": "false",
+            "school": "Thunder Mountain High School ",
+            "city": "Juneau",
+            "longitude": "-134.5912527",
+            "latitude": "58.3796573",
+            "webtype": "false",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/756844311/thunder-mountain-high-school/"
+        }
+    ],
+    "Tennessee": [
+        {
+            "web": "https://actionnetwork.org/events/hendersonville-high-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Hendersonville High School",
+            "city": "Hendersonville",
+            "longitude": "-86.6054698",
+            "latitude": "36.3033505",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/503270108/hendersonville-high-school/"
+        }
+    ],
+    "Montana": [
+        {
+            "web": "https://actionnetwork.org/events/protest-gun-violence-in-our-schools?referrer=&source=&email_referrer=&can_id=",
+            "school": "All Billings Schools",
+            "city": "Billings",
+            "longitude": "-108.5267",
+            "latitude": "45.7774423",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/219271657/billings-montana/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/carroll-college-enough-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Caroll College",
+            "city": "Helena",
+            "longitude": "-112.03888",
+            "latitude": "46.600734",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/47380/carroll-college/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/enough-national-school-walkout-113?referrer=&source=&email_referrer=&can_id=",
+            "school": "Lone Peak High School",
+            "city": "Gellatin Gateway",
+            "longitude": "-111.251858",
+            "latitude": "45.2288448",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "false"
+        },
+        {
+            "web": "https://actionnetwork.org/events/enough-national-school-walkout-83?referrer=&source=&email_referrer=&can_id=",
+            "school": "Glacier High School",
+            "city": "Kalispell",
+            "longitude": "-114.3447418",
+            "latitude": "48.2386026",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/821836963/glacier-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/lakeside-elementary-national-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Lakeside Elementary School",
+            "city": "Lakeside",
+            "longitude": "-114.2267799",
+            "latitude": "48.0201093",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/721162834/lakeside-elementary-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/missoula-international-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Missoula International School",
+            "city": "Missoula",
+            "longitude": "-113.9749041",
+            "latitude": "46.8730263",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/28884660/missoula-international-school/"
+        },
+        {
+            "web": "https://www.facebook.com/events/2017483094947555/",
+            "school": "Captial High School",
+            "city": "Helena",
+            "longitude": "-112.0484471",
+            "latitude": "46.614308",
+            "webtype": "facebook",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/258751045/capital-high-school-helena-montana/"
+        }
+    ],
+    "Massachusetts": [
+        {
+            "web": "https://actionnetwork.org/events/cambridge-rindge-and-latin-school-enough-national-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Cambridge Rindge and Latin School\n",
+            "city": "Cambridge",
+            "longitude": "-71.1116098",
+            "latitude": "42.3744044",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/294334416/cambridge-rindge-and-latin-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/bbn-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Buckingham Browne & Nichols School",
+            "city": "Cambridge",
+            "longitude": "-71.135805",
+            "latitude": "42.3718829",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/235541949/buckingham-browne-nichols-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/tufts-university-walkout-and-rally-to-end-gun-violence?referrer=&source=&email_referrer=&can_id=",
+            "school": "Tufts University",
+            "city": "Medford",
+            "longitude": "-71.1190232",
+            "latitude": "42.4074843",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/213863382/tufts-university/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/boston-university-school-of-social-work-walk-in?referrer=&source=&email_referrer=&can_id=",
+            "school": "Boston University School of Social Work",
+            "city": "Boston",
+            "longitude": "-71.1052384",
+            "latitude": "42.350845",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/4680174/boston-university-school-of-social-work/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/berklee-college-of-music-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Berklee College of Music",
+            "city": "Boston",
+            "longitude": "-71.0895292",
+            "latitude": "42.3465952",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/19059448/berklee-college-of-music-160-mass-ave/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/northeastern-university-enough-national-school-walkout-to-protest-gun-violence?referrer=&source=&email_referrer=&can_id=",
+            "school": "Northeastern University",
+            "city": "Boston",
+            "longitude": "-71.0891717",
+            "latitude": "42.3398067",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/281652/northeastern-university/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/longwood-medical-area-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Longwood Medical Area",
+            "city": "Boston",
+            "longitude": "-71.09973",
+            "latitude": "42.3360416",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/22249/longwood-medical-area-mbta-station/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/john-pierce-school-enough-national-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "John Pierce School",
+            "city": "Brookline",
+            "longitude": "-71.1208993",
+            "latitude": "42.3352353",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/727960113/pierce/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/enough-walkout-brookline-high-school?referrer=&source=&email_referrer=&can_id=",
+            "school": "Brookline High School",
+            "city": "Brookline",
+            "longitude": "-71.1291087",
+            "latitude": "42.3331401",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/238212202/brookline-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/runkle-school-community-says-enough?referrer=&source=&email_referrer=&can_id=",
+            "school": "John D. Runkle Elementary School",
+            "city": "Brookline",
+            "longitude": "-71.0800593",
+            "latitude": "42.3810374",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/1010613004/john-d-runkle/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/boston-college-national-school-walk-out?referrer=&source=&email_referrer=&can_id=",
+            "school": "Boston College",
+            "city": "Chesnut Hill",
+            "longitude": "-71.1684945",
+            "latitude": "42.3355488",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/198018/boston-college/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/enough-is-enough-medford-vocationalhigh-school-national-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Medford Vocational Technical High",
+            "city": "Medford",
+            "longitude": "-71.1251096",
+            "latitude": "42.4302094",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/479260174/medford-vocational-technical-high/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/enough-is-enough-belmont-student-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Belmont High School",
+            "city": "Belmont",
+            "longitude": "-71.1652225",
+            "latitude": "42.39523",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/229131294/belmont-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/enough-minuteman-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Minuteman High School",
+            "city": "Lexington",
+            "longitude": "-71.269029",
+            "latitude": "42.445921",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/645939799/minuteman-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/enough-stoneham-high-school-walk-out?referrer=&source=&email_referrer=&can_id=",
+            "school": "Stoneham High School",
+            "city": "Stoneham",
+            "longitude": "-71.0893321",
+            "latitude": "42.4722844",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/383646395/stoneham-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/wmhs-walkout-nomore?referrer=&source=&email_referrer=&can_id=",
+            "school": "Woburn Memorial High School",
+            "city": "Woburn",
+            "longitude": "-71.1441089",
+            "latitude": "42.4838387",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/11202731/woburn-memorial-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/bedford-high-school-says-enough?referrer=&source=&email_referrer=&can_id=",
+            "school": "Bedford High School",
+            "city": "Bedford",
+            "longitude": "-71.2852915",
+            "latitude": "42.4912919",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/235220817/bedford-high-school-massachusetts/"
+        }
+    ],
+    "Minnesota": [
+        {
+            "web": "https://actionnetwork.org/events/walkout-smsu-marshall-mn?referrer=&source=&email_referrer=&can_id=",
+            "school": "Southwest Minnesota State University",
+            "city": "Marshall",
+            "longitude": "-95.759773",
+            "latitude": "44.4560884",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/4985734/southwest-minnesota-state-university/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/pas-high-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Pipstone Area High School",
+            "city": "Pipestone",
+            "longitude": "-96.3397234",
+            "latitude": "43.9974245",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/980298355/pipestone-area-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/voyager-elementary-school-walk-out?referrer=&source=&email_referrer=&can_id=",
+            "school": "Alexandria Area High School",
+            "city": "Alexandria",
+            "longitude": "-95.3633264",
+            "latitude": "45.8528032",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/958756203/alexandria-public-schools/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/enough-22?referrer=&source=&email_referrer=&can_id=",
+            "school": "Morris Area High School",
+            "city": "Morris",
+            "longitude": "-95.9007669",
+            "latitude": "45.5838025",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/1017680724/morris-area-school-district/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/zimmerman-high-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Zimmerman High School",
+            "city": "Zimmerman",
+            "longitude": "-93.5952872",
+            "latitude": "45.4383792",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/478508897/zimmerman-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/creative-arts-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Creative Arts Secondary School",
+            "city": "Saint Paul",
+            "longitude": "-93.0909188",
+            "latitude": "44.9451284",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/1017954068/creative-arts-secondary-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/never-again-john-marshall-high-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "John Marshall High School",
+            "city": "Rochester",
+            "longitude": "-92.4845248",
+            "latitude": "44.0349664",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/253144620/john-marshall-high-school-minnesota/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/hands-around-lyndale?referrer=&source=&email_referrer=&can_id=",
+            "school": "Lyndale Community School",
+            "city": "Minneapolis",
+            "longitude": "-93.2834701",
+            "latitude": "44.9419408",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/912451811/lyndale-community-school-pto/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/chaska-high-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Chaska High School",
+            "city": "Chaska",
+            "longitude": "-93.589375",
+            "latitude": "44.824199",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/214797162/chaska-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/highland-park-enough-national-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Highland Park High School",
+            "city": "Saint Paul",
+            "longitude": "-93.1674531",
+            "latitude": "44.9102973",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/223516377/highland-park-high-school-minnesota/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/eagan-high-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Eagan High School",
+            "city": "Eagan",
+            "longitude": "-93.1344321",
+            "latitude": "44.8073264",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/239010882/eagan-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/chaska-high-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Chaska High School",
+            "city": "Chaska",
+            "longitude": "-93.589375",
+            "latitude": "44.824199",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/214797162/chaska-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/chanhassen-high-school?referrer=&source=&email_referrer=&can_id=",
+            "school": "Chanhassen High School",
+            "city": "Chanhassen",
+            "longitude": "-93.5743954",
+            "latitude": "44.8452112",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/9497657/chanhassen-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/minnetonka-high-school-gun-control-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Minnetonka High School",
+            "city": "Minnetonka",
+            "longitude": "-93.5112369",
+            "latitude": "44.9091891",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/876856869/minnetonka-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/eden-prairie-high-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Eden Prarie High School",
+            "city": "Eden Prarie",
+            "longitude": "-93.4930813",
+            "latitude": "44.8717713",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/742820961/eden-prairie-senior-high/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/edina-high-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Edina High School",
+            "city": "Edina",
+            "longitude": "-93.3768045",
+            "latitude": "44.8825618",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/218980069/edina-high-school/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/oak-grove-middle-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Oak Grove Middle School",
+            "city": "Bloomington",
+            "longitude": "-93.2951742",
+            "latitude": "44.8125907",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/790176476/oak-grove-middle/"
+        },
+        {
+            "web": "https://actionnetwork.org/events/great-river-school-walkout?referrer=&source=&email_referrer=&can_id=",
+            "school": "Great River School",
+            "city": "Saint Paul",
+            "longitude": "-93.1553102",
+            "latitude": "44.9701796",
+            "webtype": "action",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/1451211908277708/great-river-school/"
+        }
+    ],
+    "WashingtonDC": [
+        {
+            "web": "https://www.facebook.com/events/2118299605067451/",
+            "school": "The Catholic University of America",
+            "city": "Washington, DC",
+            "longitude": "-76.998692",
+            "latitude": "38.9368811",
+            "webtype": "facebook",
+            "date": "March 14",
+            "ig": "https://www.instagram.com/explore/locations/1818173/the-catholic-university-of-america/"
+        }
+    ]
+}
